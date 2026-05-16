@@ -67,4 +67,4 @@ OrcaRouter's own privacy practices (request logging, billing data retention, etc
 
 # Repository
 
-Plugin source code: https://github.com/zhenjunchen-png/dify-plugin-orcarouter
+Plugin source code: https://github.com/Continuum-AI-Corp/dify-plugin-orcarouter
