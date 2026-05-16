@@ -8,7 +8,7 @@ meta:
     version: "3.12"
   version: 0.0.1
 name: orcarouter
-author: orcarouter
+author: continuum-ai-corp
 icon: orcarouter_square.svg
 description:
   en_US: OrcaRouter is an OpenAI-compatible LLM gateway that routes requests across 40+ upstream providers (OpenAI, Anthropic, Google, DeepSeek, Qwen, Grok, and more) to the cheapest or fastest path, with adaptive routing, fallback chains, and pay-below-list-price billing.
